@@ -4,7 +4,7 @@ This Flutter project demonstrates how to add Lottie animations in a Flutter appl
 
 Watch the full tutorial on YouTube:
 
-[💥 Flutter Lottie Animation Tutorial | Step-by-Step 💡](https://youtu.be/OuHFpcdsLLI)
+[💥 Flutter Lottie Animation Tutorial | Step-by-Step 💡](https://www.youtube.com/c/ManojKulkarni30?sub_confirmation=1)
 
 Subscribe to the channel for more Flutter tutorials:
 
